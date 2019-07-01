@@ -1,0 +1,7 @@
+D:\Kuliah\Semester 2\Pemrograman\Project\LatihanResponsiUAS\LatihanResponsiUAS\bin\Debug\LatihanResponsiUAS.exe.config
+D:\Kuliah\Semester 2\Pemrograman\Project\LatihanResponsiUAS\LatihanResponsiUAS\bin\Debug\LatihanResponsiUAS.exe
+D:\Kuliah\Semester 2\Pemrograman\Project\LatihanResponsiUAS\LatihanResponsiUAS\bin\Debug\LatihanResponsiUAS.pdb
+D:\Kuliah\Semester 2\Pemrograman\Project\LatihanResponsiUAS\LatihanResponsiUAS\obj\Debug\LatihanResponsiUAS.csprojAssemblyReference.cache
+D:\Kuliah\Semester 2\Pemrograman\Project\LatihanResponsiUAS\LatihanResponsiUAS\obj\Debug\LatihanResponsiUAS.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 2\Pemrograman\Project\LatihanResponsiUAS\LatihanResponsiUAS\obj\Debug\LatihanResponsiUAS.exe
+D:\Kuliah\Semester 2\Pemrograman\Project\LatihanResponsiUAS\LatihanResponsiUAS\obj\Debug\LatihanResponsiUAS.pdb
